@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor specific files
+*.swp
+*.swo
+*.sublime-workspace
+
+# Logs and temp files
+logs/
+*.log
+*.out
+*.err
+*.pid
+*.seed
+*.cover
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+*.eggs/
+MANIFEST
+
+# Cache and debug files
+.DS_Store
+Thumbs.db
+migrations/
+celerybeat-schedule
+db.sqlite3
